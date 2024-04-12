@@ -1,0 +1,54 @@
+{
+  "command": "to start server => json-server --watch db.json --port 3030",
+  "users": [
+    {
+      "id": "1",
+      "name": "Sudhanshu Srivastava",
+      "email": "sudhanshu@gmail.com",
+      "phno": "1234567890",
+      "address": "Lucknow"
+    },
+    {
+      "id": "7",
+      "name": "Piyush Verma",
+      "email": "Piyush@gmail.com",
+      "phno": "1234554321",
+      "address": "Kanpur"
+    },
+    {
+      "id": "8",
+      "name": "Pankaj Singh",
+      "email": "pankaj@gmail.com",
+      "phno": "0987654321",
+      "address": "Barabanki"
+    },
+    {
+      "id": "9",
+      "name": "Santosh Kumar",
+      "email": "santosh@gmail.com",
+      "phno": "1234432112",
+      "address": "Kaushambhi"
+    },
+    {
+      "id": "10",
+      "name": "Agam Patel",
+      "email": "agam@gmail.com",
+      "phno": "1234567890",
+      "address": "Lucknow"
+    },
+    {
+      "id": "11",
+      "name": "Arjit Srivastava",
+      "email": "arjit@gmail.com",
+      "phno": "1234567890",
+      "address": "Pratapgarh"
+    },
+    {
+      "id": "12",
+      "name": "Nikhil",
+      "email": "nikhil@gmail.com",
+      "phno": "3213213211",
+      "address": "Hardoi"
+    }
+  ]
+}
